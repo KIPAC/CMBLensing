@@ -84,7 +84,7 @@
 
 				});
 
-				$.scrollzer(ids, { pad: 200, lastHack: true });
+				$.scrollzer(ids, { pad: 20, lastHack: true });
 
 		// Header (narrower + mobile).
 
