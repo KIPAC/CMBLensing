@@ -1553,9 +1553,9 @@
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 16pt;
 		font-weight: 300;
-		line-height: 1.75em;
+		line-height: 1.5em;
 		color: #888;
 	}
 
@@ -1572,9 +1572,9 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 16pt;
 		font-weight: 300;
-		line-height: 1.75em;
+		line-height: 1.5em;
 		color: #888;
 	}
 
@@ -1623,7 +1623,7 @@
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 500;
 		color: #666;
 	}
 
@@ -2184,7 +2184,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 14pt;
 			}
 
 		/* Header */
@@ -2230,7 +2230,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 13pt;
 			}
 
 			.container {
@@ -2305,7 +2305,7 @@
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 13pt;
 			}
 
 			header br {
@@ -2414,7 +2414,7 @@
 						-moz-osx-font-smoothing: grayscale;
 						content: '\f0c9';
 						color: #fff;
-						font-size: 18px;
+						font-size: 15px;
 						line-height: 2.25em;
 						background: rgba(128, 136, 144, 0.5);
 						border-radius: 0.35em;
@@ -2487,7 +2487,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 14pt;
+				font-size: 11pt;
 			}
 
 			h2 {
