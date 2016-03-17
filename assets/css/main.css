@@ -1878,7 +1878,7 @@
 				text-align: left;
 				padding: 0.5em 1em 0.5em 1em;
 				color: #fff;
-				background: #222729 url("images/overlay.png");
+				background: #222729;
 			}
 
 			table.default thead {
@@ -1906,10 +1906,10 @@
 		background-color: #8ebebc;
 		border: 0;
 		cursor: pointer;
-		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
-		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
-		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
-		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
+		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
 		-moz-transition: background-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
@@ -1981,7 +1981,7 @@
 		width: 375px;
 		height: 100%;
 		color: #fff;
-		background: #222629 url("images/overlay.png");
+		background: #222629;
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		text-align: right;
 	}
@@ -2128,7 +2128,6 @@
 			padding: 4em 0;
 			box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 			text-align: left;
-			background-image: url("images/overlay.png");
 		}
 
 			#main > section.dark {
@@ -2161,20 +2160,20 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #fafafa;
 				background-image: url("../../images/banner.jpg");
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #f5f5f5;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #f1f1f1;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #ececec;
 			}
 
 /* Wide */
@@ -2353,7 +2352,7 @@
 				width: 275px;
 				z-index: 10002;
 				width: 275px;
-				background: #222729 url("images/overlay.png");
+				background: #222729;
 				box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
 			}
 
