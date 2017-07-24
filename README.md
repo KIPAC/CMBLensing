@@ -1,54 +1,11 @@
-Intensity mapping workshop website
+Kavli CMB Lensing workshop website, 2017
 
+Gravitational lensing of the Cosmic Microwave Background (CMB) will be one of the primary sources of new information about the universe from current and future surveys.  While lensing measurement techniques are mature enough to have demonstrated success, the precision required from future measurements will be extremely challenging.  This workshop aims to bring together current and aspiring lensing experts from around the world in an interactive workshop to discuss the current state of the field and plan for the challenges of the future.
 
----
-Original template README:
+Workshop goals:
+ * Identify and discuss challenges in current and future CMB lensing measurements.
+ * Provide a space for lensing experts from different groups to dive deep into the details of lensing analysis challenges.
+ * Summarize current measurements of CMB lensing with a focus on the current problems and future challenges.  We hope this will include lensing reconstruction, lensing power spectrum, delensing (both T, E, and B), cross-correlations and cluster lensing mass measurements.
+ * Summarize current theoretical work on lensing with a focus on future challenges.
+ * Identify and plan for challenges of future CMB lensing measurements.
 
-
-```
-Prologue by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
-
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
-
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
-
-(* = Not included)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.scrolly (n33.co)
-		jquery.scrollzer (n33.co)
-		Skel (skel.io)
-```
