@@ -2161,7 +2161,8 @@
 
 			#main > section.one {
 				background-color: #fcfcfc;
-				background-image: url("../../images/banner.jpg");
+/* 				background-image: url("../../images/banner.jpg"); */
+ 				background-image: url("../../images/sim_lensing_zoom.png");
 			}
 
 			#main > section.two {
